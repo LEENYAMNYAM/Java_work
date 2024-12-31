@@ -1,0 +1,13 @@
+diff a/java_work/test01/src/test01/Test01.java b/java_work/test01/src/test01/Test01.java	(rejected hunks)
+@@ -1,11 +0,0 @@
+-package test01;
+-
+-public class Test01 {
+-
+-	public static void main(String[] args) {
+-		// TODO Auto-generated method stub
+-		System.out.println("Hello world");
+-		System.out.println("이준목");
+-	}
+-
+-}
