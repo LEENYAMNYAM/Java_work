@@ -1,0 +1,28 @@
+package ch01;
+
+public class EX1234 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str1="aaaaa";
+		String str2="bbbbb";
+		String answer = "";
+		        
+		int i=0;
+		int j=0;
+		while((str1.length())+(str2.length())>i){
+			j=i/2;
+			if(i%2==0) {
+				answer+=str1.charAt(j);
+				i++;
+		    }else{
+		    	answer+=str2.charAt(j);
+		    	i++;
+		    }       
+
+	    }
+	    System.out.println(answer);
+	}
+		
+}
+

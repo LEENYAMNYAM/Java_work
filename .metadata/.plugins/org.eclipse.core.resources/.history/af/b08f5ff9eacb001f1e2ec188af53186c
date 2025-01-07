@@ -1,0 +1,20 @@
+package ch01;
+
+public class EX1234 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str1="aaaaa";
+		String str2="bbbbb";
+        String answer = "";
+        
+		int i=0;
+		while(str1.length()>i){
+				answer+=str1.charAt(i);
+		    	answer+=str2.charAt(i);
+		    	i++;
+		    }     
+		System.out.println(answer);
+		}
+       
+    }

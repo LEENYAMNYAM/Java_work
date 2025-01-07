@@ -1,0 +1,19 @@
+package ch01;
+
+public class LoopTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		while(true) {
+//			System.out.println("while");
+//		}
+//		do{
+//			System.out.println("do_while");
+//		}while(true);
+		
+		for(;;) {
+			System.out.println("for");
+		}
+	}
+
+}
