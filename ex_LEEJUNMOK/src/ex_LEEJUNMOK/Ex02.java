@@ -17,7 +17,6 @@ public class Ex02 {
 			int digit2 = i/10;
 			int clapCount = 0;
 			
-			
 //			1의 자리수와 10의 자리수에 3,6,9가 있는지 확인
 			if(digit1==3 || digit1==6 || digit1==9) {
 				clapCount++;
