@@ -46,7 +46,8 @@ public class Ex04 {
 				System.out.println("잘못입력하셨습니다. 다시 입력해 주세요.");
 				continue;
 			}
-			System.out.println("종료되었습니다.");
+			System.out.println("프로그램을 종료합니다.");
+			sc.close();
 	}
 
 }

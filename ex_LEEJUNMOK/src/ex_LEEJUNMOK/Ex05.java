@@ -41,8 +41,7 @@ public class Ex05 {
 				if(ranNum%3==0) {
 //					3의 배수이면 배열에 추가하고 count를 1증가 시킴.
 					System.out.print(ranNum + "은 3의 배수입니다.");
-					DB[count]=ranNum;
-					count++;
+					DB[count++]=ranNum;
 				}else {
 					
 //				3의 배수가 아니라면 반복문 다시 실행

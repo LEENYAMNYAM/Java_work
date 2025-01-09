@@ -22,9 +22,7 @@ public class Ex01 {
 			String input = sc.next();
 			
 //		exit 입력시 무한루프 탈출 
-			if(input.equals("exit")) {
-				break;
-			}
+			if(input.equals("exit")) break;
 			
 //		문자를 입력하여 정수형으로 변경 불가시 다시 입력.
             int payment;
@@ -57,6 +55,7 @@ public class Ex01 {
 			}
 		}
 //		무한루프 탈출시 종료 알림
-		System.out.println("프로그램을 종료되었습니다.");
+		System.out.println("프로그램을 종료합니다...");
+		sc.close();
 	}
 }
