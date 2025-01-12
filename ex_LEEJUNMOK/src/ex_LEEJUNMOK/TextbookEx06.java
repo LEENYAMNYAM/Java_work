@@ -18,7 +18,6 @@ public class TextbookEx06 {
 		String kor[] = {"학생", "사랑", "자바", "행복한", "미래"};
 		Scanner sc = new Scanner(System.in);
 		String input = "";
-		String tmp = "";
 		boolean result = false;
 		
 		while(true) {
