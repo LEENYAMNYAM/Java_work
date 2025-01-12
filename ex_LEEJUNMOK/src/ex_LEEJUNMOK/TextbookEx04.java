@@ -44,7 +44,6 @@ public class TextbookEx04 {
 		
 		sc.close();
 		
-//		실수 입력했을때 확인해보자
 	}
 
 }
