@@ -39,12 +39,12 @@ public class TextbookEx06 {
 					result = true;
 					break;
 				}else{
-//					입력값과 같은 영어단어가 업다면 result를 false로 유지
+//					입력값과 같은 영어단어가 없다면 result를 false로 유지
 					result = false;	
 				}	
 			}
 //			입력값이 영어단어와 같은게 없을 시(result가 false일 때) 멘트 출력
-			if(result==false) {
+			if(!result) {
 				System.out.println("그런 영어 단어가 없습니다.");
 			}
 		}

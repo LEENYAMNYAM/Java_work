@@ -17,14 +17,14 @@ public class Ex03 {
 
 		System.out.print("  | ");
 		for(int i=0 ; i<9 ; i++) {
-			System.out.print(i+1 + " ");
+			System.out.printf("%2d ", i+1);
 		}
 		System.out.println();
-		System.out.println("--+--------------------------");
+		System.out.println("--+---------------------------");
 		for(int i=0 ; i<9 ; i++) {
-			System.out.print(i + " | ");
+			System.out.print((int)(i+1) + " | ");
 			for(int j=0 ; j<9 ; j++) {
-				System.out.print((i+1)*(j+1) + " ");
+				System.out.printf("%2d ", (i+1)*(j+1));
 			}
 			System.out.println();
 		}
