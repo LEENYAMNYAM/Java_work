@@ -8,5 +8,9 @@
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="java.security.DrbgParameters.NextBytes"/>
+    <fullyQualifiedTypeName name="aaa.TestA"/>
+    <fullyQualifiedTypeName name="aaa.TestB"/>
+    <fullyQualifiedTypeName name="packagepro.Student"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="test05.Point"/>
 </qualifiedTypeNameHistroy>
