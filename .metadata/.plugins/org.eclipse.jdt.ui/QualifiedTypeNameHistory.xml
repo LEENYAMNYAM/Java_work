@@ -11,6 +11,10 @@
     <fullyQualifiedTypeName name="aaa.TestA"/>
     <fullyQualifiedTypeName name="aaa.TestB"/>
     <fullyQualifiedTypeName name="packagepro.Student"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="test05.Point"/>
+    <fullyQualifiedTypeName name="pk0121.Student"/>
+    <fullyQualifiedTypeName name="pk0121_2.StudentWork"/>
+    <fullyQualifiedTypeName name="pk0121.C"/>
+    <fullyQualifiedTypeName name="test01.Person"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
