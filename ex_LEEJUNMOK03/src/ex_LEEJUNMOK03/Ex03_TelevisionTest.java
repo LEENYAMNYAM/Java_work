@@ -17,7 +17,7 @@ class Television{
 	}
 }
 
-public class TelevisionTest {
+public class Ex03_TelevisionTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

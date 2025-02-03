@@ -3,7 +3,7 @@ package ex_LEEJUNMOK03;
 //	<문제 5번>
 //	(2) 
 
-public class MyMath {
+public class Ex05_02_MyMath {
 	public int getRandom() {
 		return(int)Math.random();   
 	}

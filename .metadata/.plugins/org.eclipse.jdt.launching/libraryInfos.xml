@@ -11,6 +11,7 @@
             <entry path="null"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="C:\Users\admin\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700\jre" version="23.0.1"/>
     <libraryInfo home="C:\Users\wintu\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700" version="23.0.1">
         <bootpath>
             <entry path="null"/>
@@ -25,4 +26,15 @@
     <libraryInfo home="C:\Program Files\Java\jdk-23" version="23.0.1"/>
     <libraryInfo home="C:\Users\wintu\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700\jre" version="23.0.1"/>
     <libraryInfo home="C:\Users\it\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700\jre" version="23.0.1"/>
+    <libraryInfo home="C:\Users\admin\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700" version="23.0.1">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
 </libraryInfos>

@@ -28,7 +28,7 @@ class Date {
     }
 }
 
-public class DateEx {
+public class Ex01_DateEx {
     public static void main(String[] args) {
         // Date 객체 생성
         Date date = new Date(2025, 1, 20);

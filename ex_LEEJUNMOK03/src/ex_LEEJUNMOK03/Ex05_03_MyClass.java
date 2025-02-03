@@ -2,7 +2,7 @@ package ex_LEEJUNMOK03;
 
 //	<문제 5번>
 //	(3) 
-public class MyClass {
+public class Ex05_03_MyClass {
 	private String getName() {
 		return "MyClass";
 	}
