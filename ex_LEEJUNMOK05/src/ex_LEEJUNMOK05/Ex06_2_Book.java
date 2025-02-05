@@ -1,4 +1,4 @@
-package ex_LEEJUNMOK06;
+package ex_LEEJUNMOK05;
 
 public class Ex06_2_Book {
 //	필드

@@ -1,6 +1,6 @@
-package ex_LEEJUNMOK06;
+package ex_LEEJUNMOK05;
 
-public class Ex06_1 {
+public class Ex06_1_TestEx {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

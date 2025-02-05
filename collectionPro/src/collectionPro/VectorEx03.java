@@ -2,7 +2,7 @@ package collectionPro;
 
 import java.util.Vector;
 
-public class VecorEx03 {
+public class VectorEx03 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
