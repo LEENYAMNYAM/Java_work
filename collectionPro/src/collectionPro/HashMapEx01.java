@@ -2,6 +2,7 @@ package collectionPro;
 
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.LinkedHashMap;
 import java.util.Scanner;
 import java.util.Set;
 
@@ -23,7 +24,7 @@ public class HashMapEx01 {
 
 //		모든 키 집합으로 출력
 		Set<String> keys = h.keySet();
-	
+		System.out.println(keys);
 			
 		/* HashMap은 구조적으로 for문으로 여러 데이터값들을 가져오기 힘듦
 		for(int i=0; i <h.size();i++){
@@ -51,7 +52,6 @@ public class HashMapEx01 {
 				System.out.println(kor);
 			}
 		}
-		
 		
 	}
 

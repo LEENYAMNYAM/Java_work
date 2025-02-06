@@ -49,7 +49,7 @@ public class VectorEx01 {
 		n=v.size();
 		c=v.capacity();
 		System.out.printf("n = %d, c = %d%n", n, c);
-		for(int i=0; i <10; i++) {
+		for(int i=0; i <20; i++) {
 			v.add((int)(Math.random()*100+1));
 		}
 		
