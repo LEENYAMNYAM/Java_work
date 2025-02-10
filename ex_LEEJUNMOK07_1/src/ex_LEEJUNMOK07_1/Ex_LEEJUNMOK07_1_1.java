@@ -3,7 +3,7 @@ package ex_LEEJUNMOK07_1;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class ex_LEEJUNMOK07_1_1 {
+public class Ex_LEEJUNMOK07_1_1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

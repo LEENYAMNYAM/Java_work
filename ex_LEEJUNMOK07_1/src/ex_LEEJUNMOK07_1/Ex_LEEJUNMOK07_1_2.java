@@ -1,9 +1,10 @@
 package ex_LEEJUNMOK07_1;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.Vector;
 
-public class ex_LEEJUNMOK07_1_2 {
+public class Ex_LEEJUNMOK07_1_2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -22,7 +23,7 @@ public class ex_LEEJUNMOK07_1_2 {
 				prec = sc.nextInt();
 			}catch(Exception e) {
 				System.out.println("정수를 입력해 주세요.");
-				continue;
+				break;
 			}
 			
 //			0입력시 종료
