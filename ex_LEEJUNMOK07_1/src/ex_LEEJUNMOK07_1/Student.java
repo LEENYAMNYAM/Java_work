@@ -55,6 +55,9 @@ public class Student {
 		System.out.println("학번 : " + sno);
 		System.out.println("학점 평균 : " + score);
 	}
+	public void Print2() {
+		System.out.println(name + ", " + major + ", " + sno + ", " + score);
+	}
 	
 	
 	
